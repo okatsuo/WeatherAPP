@@ -1,0 +1,59 @@
+*{
+    margin: 1%;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+
+    
+}
+
+body{
+    background-color: rgb(58, 58, 58);
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.firstSection .buttons{
+
+    border-radius: 25px;
+    
+}
+.firstSection{
+ 
+    color: white;
+    font-size: 28px;
+    background-color: rgba(0, 0, 0, 0.623);
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em;
+    box-shadow: 0.1em 0.1em 0.2em rgb(58, 57, 57);
+    margin: 0;
+    align-items: center;
+    padding-bottom: 1%;
+    
+    
+}
+
+
+.card{
+    
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    overflow: hidden;
+    position: relative;
+    
+    
+}
+
+.card .time {
+    height: 200px;
+}
+
+.card .icon img{
+    
+    border-radius: 50px;
+    border-style: solid;
+}
